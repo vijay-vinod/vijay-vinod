@@ -1,8 +1,8 @@
 ## Hi there 👋 ,  I am Vijay Vinod
 
-Computer applications Grad<br>
- PGD in Cybersecurity<br>
- Network systems student
+🎓 Graduate in Computer Applications<br>
+📚 Postgraduate Diploma in Cybersecurity<br>
+🖧 Specializing in Network Systems & Infrastructure
  
 
 ## 🌐 Socials:
